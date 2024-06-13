@@ -33,7 +33,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-  strings : ["Designer","Developer","Photographer","Thinker"],
+  strings : ["Shivam_","Student_","Web Developer_","Android Developer_","Engineer_","Photographer_"],
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
@@ -62,7 +62,7 @@ sr.reveal('.featured-image',{delay: 300})
 sr.reveal('.project-box',{interval: 200})
 
 /* -- HEADINGS -- */
-
+sr.reveal('.top-header',{})
 
 /* ----- ## -- SCROLL REVEAL LEFT_RIGHT ANIMATION -- ## ----- */
 
